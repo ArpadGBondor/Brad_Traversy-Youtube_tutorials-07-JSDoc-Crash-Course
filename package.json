@@ -1,0 +1,16 @@
+{
+    "name": "07-jsdoc-crash-course",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "doc": "jsdoc -c jsdoc.json",
+        "start": "node src"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jsdoc": "^3.6.11"
+    }
+}
